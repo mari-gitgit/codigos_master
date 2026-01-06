@@ -1,0 +1,1123 @@
+Departamento,Municipio,Codigo_DANE,Tipo_ruralidad
+Antioquia,Apartadó,5045,Ciudades y aglomeraciones
+Antioquia,Barbosa,5079,Ciudades y aglomeraciones
+Antioquia,Bello,5088,Ciudades y aglomeraciones
+Antioquia,Caldas,5129,Ciudades y aglomeraciones
+Antioquia,Caucasia,5154,Ciudades y aglomeraciones
+Antioquia,Copacabana,5212,Ciudades y aglomeraciones
+Antioquia,Envigado,5266,Ciudades y aglomeraciones
+Antioquia,Girardota,5308,Ciudades y aglomeraciones
+Antioquia,Itagüí,5360,Ciudades y aglomeraciones
+Antioquia,La Estrella,5380,Ciudades y aglomeraciones
+Antioquia,Medellín,5001,Ciudades y aglomeraciones
+Antioquia,Rionegro,5615,Ciudades y aglomeraciones
+Antioquia,Sabaneta,5631,Ciudades y aglomeraciones
+Antioquia,Turbo,5837,Ciudades y aglomeraciones
+Atlántico,Baranoa,8078,Ciudades y aglomeraciones
+Atlántico,Barranquilla,8001,Ciudades y aglomeraciones
+Atlántico,Galapa,8296,Ciudades y aglomeraciones
+Atlántico,Malambo,8433,Ciudades y aglomeraciones
+Atlántico,Palmar de Varela,8520,Ciudades y aglomeraciones
+Atlántico,Polonuevo,8558,Ciudades y aglomeraciones
+Atlántico,Ponedera,8560,Ciudades y aglomeraciones
+Atlántico,Puerto Colombia,8573,Ciudades y aglomeraciones
+Atlántico,Sabanagrande,8634,Ciudades y aglomeraciones
+Atlántico,Sabanalarga,8638,Ciudades y aglomeraciones
+Atlántico,Santo Tomás,8685,Ciudades y aglomeraciones
+Atlántico,Soledad,8758,Ciudades y aglomeraciones
+Atlántico,Tubará,8832,Ciudades y aglomeraciones
+Atlántico,Usiacurí,8849,Ciudades y aglomeraciones
+"Bogotá, D.C.","Bogotá, D.C.",11001,Ciudades y aglomeraciones
+Bolívar,Arjona,13052,Ciudades y aglomeraciones
+Bolívar,Cartagena,13001,Ciudades y aglomeraciones
+Bolívar,Clemencia,13222,Ciudades y aglomeraciones
+Bolívar,San Cristóbal,13620,Ciudades y aglomeraciones
+Bolívar,Santa Rosa,13683,Ciudades y aglomeraciones
+Bolívar,Turbaco,13836,Ciudades y aglomeraciones
+Bolívar,Turbaná,13838,Ciudades y aglomeraciones
+Bolívar,Villanueva,13873,Ciudades y aglomeraciones
+Boyacá,Duitama,15238,Ciudades y aglomeraciones
+Boyacá,Sogamoso,15759,Ciudades y aglomeraciones
+Boyacá,Tunja,15001,Ciudades y aglomeraciones
+Caldas,Manizales,17001,Ciudades y aglomeraciones
+Caldas,Villamaría,17873,Ciudades y aglomeraciones
+Caquetá,Florencia,18001,Ciudades y aglomeraciones
+Casanare,Yopal,85001,Ciudades y aglomeraciones
+Cauca,Padilla,19513,Ciudades y aglomeraciones
+Cauca,Popayán,19001,Ciudades y aglomeraciones
+Cauca,Puerto Tejada,19573,Ciudades y aglomeraciones
+Cauca,Villa Rica,19845,Ciudades y aglomeraciones
+Cesar,Valledupar,20001,Ciudades y aglomeraciones
+Chocó,Quibdó,27001,Ciudades y aglomeraciones
+Córdoba,Montería,23001,Ciudades y aglomeraciones
+Cundinamarca,Bojacá,25099,Ciudades y aglomeraciones
+Cundinamarca,Cajicá,25126,Ciudades y aglomeraciones
+Cundinamarca,Chía,25175,Ciudades y aglomeraciones
+Cundinamarca,Cogua,25200,Ciudades y aglomeraciones
+Cundinamarca,Cota,25214,Ciudades y aglomeraciones
+Cundinamarca,Facatativá,25269,Ciudades y aglomeraciones
+Cundinamarca,Funza,25286,Ciudades y aglomeraciones
+Cundinamarca,Fusagasugá,25290,Ciudades y aglomeraciones
+Cundinamarca,Gachancipá,25295,Ciudades y aglomeraciones
+Cundinamarca,Girardot,25307,Ciudades y aglomeraciones
+Cundinamarca,La Calera,25377,Ciudades y aglomeraciones
+Cundinamarca,Madrid,25430,Ciudades y aglomeraciones
+Cundinamarca,Mosquera,25473,Ciudades y aglomeraciones
+Cundinamarca,Nemocón,25486,Ciudades y aglomeraciones
+Cundinamarca,Sibaté,25740,Ciudades y aglomeraciones
+Cundinamarca,Soacha,25754,Ciudades y aglomeraciones
+Cundinamarca,Sopó,25758,Ciudades y aglomeraciones
+Cundinamarca,Sutatausa,25781,Ciudades y aglomeraciones
+Cundinamarca,Tabio,25785,Ciudades y aglomeraciones
+Cundinamarca,Tocancipá,25817,Ciudades y aglomeraciones
+Cundinamarca,Zipaquirá,25899,Ciudades y aglomeraciones
+Huila,Neiva,41001,Ciudades y aglomeraciones
+La Guajira,Maicao,44430,Ciudades y aglomeraciones
+La Guajira,Riohacha,44001,Ciudades y aglomeraciones
+Magdalena,Ciénaga,47189,Ciudades y aglomeraciones
+Magdalena,Santa Marta,47001,Ciudades y aglomeraciones
+Meta,Villavicencio,50001,Ciudades y aglomeraciones
+Nariño,Ipiales,52356,Ciudades y aglomeraciones
+Nariño,Nariño,52480,Ciudades y aglomeraciones
+Nariño,Pasto,52001,Ciudades y aglomeraciones
+Nariño,San Andrés de Tumaco,52835,Ciudades y aglomeraciones
+Norte de Santander,Cúcuta,54001,Ciudades y aglomeraciones
+Norte de Santander,Los Patios,54405,Ciudades y aglomeraciones
+Norte de Santander,Ocaña,54498,Ciudades y aglomeraciones
+Norte de Santander,Pamplona,54518,Ciudades y aglomeraciones
+Norte de Santander,Villa del Rosario,54874,Ciudades y aglomeraciones
+Putumayo,Puerto Asís,86568,Ciudades y aglomeraciones
+Quindío,Armenia,63001,Ciudades y aglomeraciones
+Quindío,Calarcá,63130,Ciudades y aglomeraciones
+Quindío,Circasia,63190,Ciudades y aglomeraciones
+Quindío,La Tebaida,63401,Ciudades y aglomeraciones
+Risaralda,Dosquebradas,66170,Ciudades y aglomeraciones
+Risaralda,Pereira,66001,Ciudades y aglomeraciones
+Risaralda,Santa Rosa de Cabal,66682,Ciudades y aglomeraciones
+Santander,Barrancabermeja,68081,Ciudades y aglomeraciones
+Santander,Bucaramanga,68001,Ciudades y aglomeraciones
+Santander,Floridablanca,68276,Ciudades y aglomeraciones
+Santander,Girón,68307,Ciudades y aglomeraciones
+Santander,Málaga,68432,Ciudades y aglomeraciones
+Santander,Piedecuesta,68547,Ciudades y aglomeraciones
+Santander,San Gil,68679,Ciudades y aglomeraciones
+Sucre,Sincelejo,70001,Ciudades y aglomeraciones
+Tolima,Honda,73349,Ciudades y aglomeraciones
+Tolima,Ibagué,73001,Ciudades y aglomeraciones
+Valle del Cauca,Buenaventura,76109,Ciudades y aglomeraciones
+Valle del Cauca,Cali,76001,Ciudades y aglomeraciones
+Valle del Cauca,Candelaria,76130,Ciudades y aglomeraciones
+Valle del Cauca,Cartago,76147,Ciudades y aglomeraciones
+Valle del Cauca,Florida,76275,Ciudades y aglomeraciones
+Valle del Cauca,Guadalajara de Buga,76111,Ciudades y aglomeraciones
+Valle del Cauca,Jamundí,76364,Ciudades y aglomeraciones
+Valle del Cauca,Palmira,76520,Ciudades y aglomeraciones
+Valle del Cauca,Pradera,76563,Ciudades y aglomeraciones
+Valle del Cauca,Tuluá,76834,Ciudades y aglomeraciones
+Valle del Cauca,Vijes,76869,Ciudades y aglomeraciones
+Valle del Cauca,Yumbo,76892,Ciudades y aglomeraciones
+Valle del Cauca,Tarazá,5790,Intermedio
+Valle del Cauca,Tarso,5792,Intermedio
+Valle del Cauca,Titiribí,5809,Intermedio
+Valle del Cauca,Venecia,5861,Intermedio
+Valle del Cauca,Yarumal,5887,Intermedio
+Arauca,Arauca,81001,Intermedio
+Arauca,Saravena,81736,Intermedio
+Archipiélago de San Andrés,Providencia,88564,Intermedio
+Archipiélago de San Andrés,San Andrés,88001,Intermedio
+Atlántico,Campo de La Cruz,8137,Intermedio
+Atlántico,Candelaria,8141,Intermedio
+Atlántico,Juan de Acosta,8372,Intermedio
+Atlántico,Luruaco,8421,Intermedio
+Atlántico,Manatí,8436,Intermedio
+Atlántico,Repelón,8606,Intermedio
+Atlántico,Santa Lucía,8675,Intermedio
+Atlántico,Suán,8770,Intermedio
+Bolívar,Arroyohondo,13062,Intermedio
+Bolívar,Calamar,13140,Intermedio
+Bolívar,Cicuco,13188,Intermedio
+Bolívar,El Carmen de Bolívar,13244,Intermedio
+Bolívar,Magangué,13430,Intermedio
+Bolívar,Mahates,13433,Intermedio
+Bolívar,María La Baja,13442,Intermedio
+Bolívar,Mompós,13468,Intermedio
+Bolívar,Regidor,13580,Intermedio
+Bolívar,San Estanislao,13647,Intermedio
+Bolívar,San Juan Nepomuceno,13657,Intermedio
+Bolívar,San Pablo,13670,Intermedio
+Bolívar,Santa Catalina,13673,Intermedio
+Bolívar,Soplaviento,13760,Intermedio
+Boyacá,Belén,15087,Intermedio
+Boyacá,Cerinza,15162,Intermedio
+Boyacá,Chiquinquirá,15176,Intermedio
+Boyacá,Chivatá,15187,Intermedio
+Boyacá,Cucaita,15224,Intermedio
+Boyacá,El Espino,15248,Intermedio
+Boyacá,Firavitoba,15272,Intermedio
+Boyacá,Garagoa,15299,Intermedio
+Boyacá,Guateque,15322,Intermedio
+Boyacá,Iza,15362,Intermedio
+Boyacá,Jenesano,15367,Intermedio
+Boyacá,Monguí,15466,Intermedio
+Antioquia,Amagá,5030,Intermedio
+Antioquia,Andes,5034,Intermedio
+Antioquia,Angelópolis,5036,Intermedio
+Antioquia,Arboletes,5051,Intermedio
+Antioquia,Betania,5091,Intermedio
+Antioquia,Betulia,5093,Intermedio
+Antioquia,Caramanta,5145,Intermedio
+Antioquia,Carepa,5147,Intermedio
+Antioquia,Chigorodó,5172,Intermedio
+Antioquia,Cisneros,5190,Intermedio
+Antioquia,Ciudad Bolívar,5101,Intermedio
+Antioquia,Concordia,5209,Intermedio
+Antioquia,Don Matías,5237,Intermedio
+Antioquia,El Bagre,5250,Intermedio
+Antioquia,El Carmen de Viboral,5148,Intermedio
+Antioquia,El Santuario,5697,Intermedio
+Antioquia,Fredonia,5282,Intermedio
+Antioquia,Granada,5313,Intermedio
+Antioquia,Guadalupe,5315,Intermedio
+Antioquia,Guarne,5318,Intermedio
+Antioquia,Guatapé,5321,Intermedio
+Antioquia,Heliconia,5347,Intermedio
+Antioquia,Hispania,5353,Intermedio
+Antioquia,Jardín,5364,Intermedio
+Antioquia,Jericó,5368,Intermedio
+Antioquia,La Ceja,5376,Intermedio
+Antioquia,La Pintada,5390,Intermedio
+Antioquia,La Unión,5400,Intermedio
+Antioquia,Marinilla,5440,Intermedio
+Antioquia,Montebello,5467,Intermedio
+Antioquia,Peñol,5541,Intermedio
+Antioquia,Pueblorrico,5576,Intermedio
+Antioquia,Puerto Berrío,5579,Intermedio
+Antioquia,Puerto Triunfo,5591,Intermedio
+Antioquia,Retiro,5607,Intermedio
+Antioquia,San Jerónimo,5656,Intermedio
+Antioquia,San Juan de Urabá,5659,Intermedio
+Antioquia,San Pedro,5664,Intermedio
+Antioquia,San Pedro de Urabá,5665,Intermedio
+Antioquia,San Vicente,5674,Intermedio
+Antioquia,Santa Bárbara,5679,Intermedio
+Antioquia,Segovia,5736,Intermedio
+Antioquia,Sopetrán,5761,Intermedio
+Antioquia,Támesis,5789,Intermedio
+Antioquia,Moniquirá,15469,Intermedio
+Antioquia,Motavita,15476,Intermedio
+Antioquia,Muzo,15480,Intermedio
+Antioquia,Nobsa,15491,Intermedio
+Antioquia,Nuevo Colón,15494,Intermedio
+Antioquia,Paipa,15516,Intermedio
+Antioquia,Puerto Boyacá,15572,Intermedio
+Antioquia,Ramiriquí,15599,Intermedio
+Antioquia,Sáchica,15638,Intermedio
+Antioquia,Samacá,15646,Intermedio
+Antioquia,Santa Rosa de Viterbo,15693,Intermedio
+Antioquia,Santana,15686,Intermedio
+Antioquia,Soatá,15753,Intermedio
+Antioquia,Sutatenza,15778,Intermedio
+Antioquia,Tibasosa,15806,Intermedio
+Antioquia,Toca,15814,Intermedio
+Antioquia,Tópaga,15820,Intermedio
+Antioquia,Turmequé,15835,Intermedio
+Antioquia,Ventaquemada,15861,Intermedio
+Antioquia,Villa de Leyva,15407,Intermedio
+Caldas,Anserma,17042,Intermedio
+Caldas,Aranzazu,17050,Intermedio
+Caldas,Belalcázar,17088,Intermedio
+Caldas,Chinchiná,17174,Intermedio
+Caldas,Filadelfia,17272,Intermedio
+Caldas,La Dorada,17380,Intermedio
+Caldas,La Merced,17388,Intermedio
+Caldas,Manzanares,17433,Intermedio
+Caldas,Marmato,17442,Intermedio
+Caldas,Marquetalia,17444,Intermedio
+Caldas,Neira,17486,Intermedio
+Caldas,Palestina,17524,Intermedio
+Caldas,Riosucio,17614,Intermedio
+Caldas,Risaralda,17616,Intermedio
+Caldas,San José,17665,Intermedio
+Caldas,Supía,17777,Intermedio
+Caldas,Viterbo,17877,Intermedio
+Casanare,Aguazul,85010,Intermedio
+Cauca,Corinto,19212,Intermedio
+Cauca,Florencia,19290,Intermedio
+Cauca,Guachené,19300,Intermedio
+Cauca,Miranda,19455,Intermedio
+Cauca,Piendamó,19548,Intermedio
+Cauca,Rosas,19622,Intermedio
+Cauca,Santander de Quilichao,19698,Intermedio
+Cauca,Timbío,19807,Intermedio
+Cesar,Aguachica,20011,Intermedio
+Cesar,Agustín Codazzi,20013,Intermedio
+Cesar,Bosconia,20060,Intermedio
+Cesar,Manaure,20443,Intermedio
+Chocó,Unión Panamericana,27810,Intermedio
+Córdoba,Ayapel,23068,Intermedio
+Córdoba,Cereté,23162,Intermedio
+Córdoba,Chinú,23182,Intermedio
+Córdoba,Ciénaga de Oro,23189,Intermedio
+Córdoba,Cotorra,23300,Intermedio
+Córdoba,La Apartada,23350,Intermedio
+Córdoba,Lorica,23417,Intermedio
+Córdoba,Momil,23464,Intermedio
+Córdoba,Montelíbano,23466,Intermedio
+Córdoba,Moñitos,23500,Intermedio
+Córdoba,Planeta Rica,23555,Intermedio
+Córdoba,Purísima,23586,Intermedio
+Córdoba,Sahagún,23660,Intermedio
+Córdoba,San Andrés Sotavento,23670,Intermedio
+Córdoba,San Antero,23672,Intermedio
+Córdoba,San Bernardo del Viento,23675,Intermedio
+Córdoba,Tierralta,23807,Intermedio
+Córdoba,Tuchín,23815,Intermedio
+Cundinamarca,Agua de Dios,25001,Intermedio
+Cundinamarca,Albán,25019,Intermedio
+Cundinamarca,Anapoima,25035,Intermedio
+Cundinamarca,Anolaima,25040,Intermedio
+Cundinamarca,Apulo,25599,Intermedio
+Cundinamarca,Arbeláez,25053,Intermedio
+Cundinamarca,Cachipay,25123,Intermedio
+Cundinamarca,Cáqueza,25151,Intermedio
+Cundinamarca,Choachí,25181,Intermedio
+Cundinamarca,Chocontá,25183,Intermedio
+Cundinamarca,El Colegio,25245,Intermedio
+Cundinamarca,El Rosal,25260,Intermedio
+Cundinamarca,Granada,25312,Intermedio
+Cundinamarca,Guachetá,25317,Intermedio
+Cundinamarca,La Mesa,25386,Intermedio
+Cundinamarca,La Palma,25394,Intermedio
+Cundinamarca,La Vega,25402,Intermedio
+Cundinamarca,Nimaima,25489,Intermedio
+Cundinamarca,Belén,52083,Intermedio
+Cundinamarca,Chachagüí,52240,Intermedio
+Cundinamarca,Colón,52203,Intermedio
+Cundinamarca,Contadero,52210,Intermedio
+Cundinamarca,Cuaspud,52224,Intermedio
+Cundinamarca,Guaitarilla,52320,Intermedio
+Cundinamarca,Gualmatán,52323,Intermedio
+Cundinamarca,Iles,52352,Intermedio
+Cundinamarca,La Cruz,52378,Intermedio
+Cundinamarca,La Unión,52399,Intermedio
+Cundinamarca,Ospina,52506,Intermedio
+Cundinamarca,Providencia,52565,Intermedio
+Cundinamarca,Pupiales,52585,Intermedio
+Cundinamarca,Samaniego,52678,Intermedio
+Cundinamarca,San Bernardo,52685,Intermedio
+Cundinamarca,San Pablo,52693,Intermedio
+Cundinamarca,San Pedro de Cartago,52694,Intermedio
+Cundinamarca,Sandoná,52683,Intermedio
+Cundinamarca,Túquerres,52838,Intermedio
+Norte de Santander,Chinácota,54172,Intermedio
+Norte de Santander,Puerto Santander,54553,Intermedio
+Norte de Santander,Ragonvalia,54599,Intermedio
+Putumayo,Colón,86219,Intermedio
+Putumayo,Mocoa,86001,Intermedio
+Putumayo,Sibundoy,86749,Intermedio
+Putumayo,Valle del Guamuez,86865,Intermedio
+Quindío,Buenavista,63111,Intermedio
+Quindío,Córdoba,63212,Intermedio
+Quindío,Filandia,63272,Intermedio
+Quindío,Montenegro,63470,Intermedio
+Quindío,Quimbaya,63594,Intermedio
+Risaralda,Apía,66045,Intermedio
+Risaralda,Belén de Umbría,66088,Intermedio
+Risaralda,Guática,66318,Intermedio
+Risaralda,La Celia,66383,Intermedio
+Risaralda,La Virginia,66400,Intermedio
+Risaralda,Marsella,66440,Intermedio
+Risaralda,Quinchía,66594,Intermedio
+Risaralda,Santuario,66687,Intermedio
+Santander,Barbosa,68077,Intermedio
+Santander,Barichara,68079,Intermedio
+Santander,Capitanejo,68147,Intermedio
+Santander,Güepsa,68327,Intermedio
+Santander,Lebrija,68406,Intermedio
+Santander,Nocaima,25491,Intermedio
+Santander,Pacho,25513,Intermedio
+Santander,Ricaurte,25612,Intermedio
+Santander,San Antonio del Tequendama,25645,Intermedio
+Santander,San Francisco,25658,Intermedio
+Santander,Silvania,25743,Intermedio
+Santander,Simijaca,25745,Intermedio
+Santander,Subachoque,25769,Intermedio
+Santander,Suesca,25772,Intermedio
+Santander,Susa,25779,Intermedio
+Santander,Tena,25797,Intermedio
+Santander,Tenjo,25799,Intermedio
+Santander,Tocaima,25815,Intermedio
+Santander,Útica,25851,Intermedio
+Santander,Vianí,25867,Intermedio
+Santander,Villa de San Diego de Ubaté,25843,Intermedio
+Santander,Villapinzón,25873,Intermedio
+Santander,Villeta,25875,Intermedio
+Santander,Viotá,25878,Intermedio
+Santander,Zipacón,25898,Intermedio
+Huila,Campoalegre,41132,Intermedio
+Huila,Garzón,41298,Intermedio
+Huila,Gigante,41306,Intermedio
+Huila,La Plata,41396,Intermedio
+Huila,Pital,41548,Intermedio
+Huila,Pitalito,41551,Intermedio
+Huila,Timaná,41807,Intermedio
+La Guajira,Distracción,44098,Intermedio
+La Guajira,Fonseca,44279,Intermedio
+La Guajira,Hatonuevo,44378,Intermedio
+La Guajira,Manaure,44560,Intermedio
+La Guajira,Urumita,44855,Intermedio
+La Guajira,Villanueva,44874,Intermedio
+Magdalena,Aracataca,47053,Intermedio
+Magdalena,Concordia,47205,Intermedio
+Magdalena,El Banco,47245,Intermedio
+Magdalena,El Retén,47268,Intermedio
+Magdalena,Fundación,47288,Intermedio
+Magdalena,Plato,47555,Intermedio
+Magdalena,Zona Bananera,47980,Intermedio
+Meta,Acacías,50006,Intermedio
+Meta,Granada,50313,Intermedio
+Nariño,Albán,52019,Intermedio
+Nariño,Arboleda,52051,Intermedio
+Nariño,Lérida,73408,Intermedio
+Nariño,Líbano,73411,Intermedio
+Nariño,Mariquita,73443,Intermedio
+Nariño,Melgar,73449,Intermedio
+Nariño,Palocabildo,73520,Intermedio
+Nariño,Purificación,73585,Intermedio
+Nariño,Saldaña,73671,Intermedio
+Nariño,Venadillo,73861,Intermedio
+Valle del Cauca,Alcalá,76020,Intermedio
+Valle del Cauca,Andalucía,76036,Intermedio
+Valle del Cauca,Ansermanuevo,76041,Intermedio
+Valle del Cauca,Argelia,76054,Intermedio
+Valle del Cauca,Caicedonia,76122,Intermedio
+Valle del Cauca,El Cerrito,76248,Intermedio
+Valle del Cauca,Ginebra,76306,Intermedio
+Valle del Cauca,Guacarí,76318,Intermedio
+Valle del Cauca,La Unión,76400,Intermedio
+Valle del Cauca,Obando,76497,Intermedio
+Valle del Cauca,Restrepo,76606,Intermedio
+Valle del Cauca,Roldanillo,76622,Intermedio
+Valle del Cauca,San Pedro,76670,Intermedio
+Valle del Cauca,Sevilla,76736,Intermedio
+Valle del Cauca,Toro,76823,Intermedio
+Valle del Cauca,Trujillo,76828,Intermedio
+Valle del Cauca,Ulloa,76845,Intermedio
+Valle del Cauca,Zarzal,76895,Intermedio
+Valle del Cauca,Palmar,68522,Intermedio
+Valle del Cauca,Páramo,68533,Intermedio
+Valle del Cauca,Socorro,68755,Intermedio
+Valle del Cauca,Valle de San José,68855,Intermedio
+Valle del Cauca,Villanueva,68872,Intermedio
+Sucre,Buenavista,70110,Intermedio
+Sucre,Chalán,70230,Intermedio
+Sucre,Corozal,70215,Intermedio
+Sucre,Coveñas,70221,Intermedio
+Sucre,El Roble,70233,Intermedio
+Sucre,Galeras,70235,Intermedio
+Sucre,Los Palmitos,70418,Intermedio
+Sucre,Morroa,70473,Intermedio
+Sucre,Palmito,70523,Intermedio
+Sucre,Sampués,70670,Intermedio
+Sucre,San Juan de Betulia,70702,Intermedio
+Sucre,San Luis de Sincé,70742,Intermedio
+Sucre,San Marcos,70708,Intermedio
+Sucre,San Pedro,70717,Intermedio
+Sucre,Santiago de Tolú,70820,Intermedio
+Tolima,Chaparral,73168,Intermedio
+Tolima,Espinal,73268,Intermedio
+Tolima,Flandes,73275,Intermedio
+Tolima,Fresno,73283,Intermedio
+Tolima,Guamo,73319,Intermedio
+Tolima,Icononzo,73352,Intermedio
+Amazonas,Leticia,91001,Rural
+Antioquia,Abejorral,5002,Rural
+Antioquia,Alejandría,5021,Rural
+Antioquia,Amalfi,5031,Rural
+Antioquia,Anorí,5040,Rural
+Antioquia,Armenia,5059,Rural
+Antioquia,Campamento,5134,Rural
+Antioquia,Cañasgordas,5138,Rural
+Antioquia,Caracolí,5142,Rural
+Antioquia,Carolina,5150,Rural
+Antioquia,Cocorná,5197,Rural
+Antioquia,Concepción,5206,Rural
+Antioquia,Dabeiba,5234,Rural
+Antioquia,Ebéjico,5240,Rural
+Antioquia,Entrerrios,5264,Rural
+Antioquia,Frontino,5284,Rural
+Antioquia,Giraldo,5306,Rural
+Antioquia,Gómez Plata,5310,Rural
+Antioquia,Maceo,5425,Rural
+Antioquia,Nariño,5483,Rural
+Antioquia,Nechí,5495,Rural
+Antioquia,Puerto Nare,5585,Rural
+Antioquia,Remedios,5604,Rural
+Antioquia,Sabanalarga,5628,Rural
+Antioquia,Salgar,5642,Rural
+Antioquia,San Andrés de Cuerquía,5647,Rural
+Antioquia,San Carlos,5649,Rural
+Antioquia,San Francisco,5652,Rural
+Antioquia,San José de La Montaña,5658,Rural
+Antioquia,San Luis,5660,Rural
+Antioquia,San Rafael,5667,Rural
+Antioquia,San Roque,5670,Rural
+Antioquia,Santa Rosa de Osos,5686,Rural
+Antioquia,Santafé de Antioquia,5042,Rural
+Antioquia,Sonsón,5756,Rural
+Antioquia,Uramita,5842,Rural
+Antioquia,Urrao,5847,Rural
+Antioquia,Valparaíso,5856,Rural
+Antioquia,Vegachí,5858,Rural
+Antioquia,Yalí,5885,Rural
+Antioquia,Yolombó,5890,Rural
+Antioquia,Zaragoza,5895,Rural
+Arauca,Arauquita,81065,Rural
+Arauca,Fortul,81300,Rural
+Atlántico,Piojó,8549,Rural
+Bolívar,Altos del Rosario,13030,Rural
+Bolívar,Barranco de Loba,13074,Rural
+Bolívar,Cantagallo,13160,Rural
+Bolívar,El Guamo,13248,Rural
+Bolívar,El Peñón,13268,Rural
+Bolívar,Hatillo de Loba,13300,Rural
+Bolívar,Norosí,13490,Rural
+Bolívar,Río Viejo,13600,Rural
+Bolívar,San Jacinto,13654,Rural
+Bolívar,San Martín de Loba,13667,Rural
+Bolívar,Santa Rosa del Sur,13688,Rural
+Bolívar,Simití,13744,Rural
+Bolívar,Talaigua Nuevo,13780,Rural
+Bolívar,Zambrano,13894,Rural
+Boyacá,Aquitania,15047,Rural
+Boyacá,Arcabuco,15051,Rural
+Boyacá,Boavita,15097,Rural
+Boyacá,Boyacá,15104,Rural
+Boyacá,Briceño,15106,Rural
+Boyacá,Buenavista,15109,Rural
+Boyacá,Busbanzá,15114,Rural
+Boyacá,Chinavita,15172,Rural
+Boyacá,Ciénega,15189,Rural
+Boyacá,Cómbita,15204,Rural
+Boyacá,Corrales,15215,Rural
+Boyacá,El Cocuy,15244,Rural
+Boyacá,Floresta,15276,Rural
+Boyacá,Gameza,15296,Rural
+Boyacá,Guayatá,15325,Rural
+Boyacá,La Capilla,15380,Rural
+Boyacá,La Uvita,15403,Rural
+Boyacá,La Victoria,15401,Rural
+Boyacá,Maripí,15442,Rural
+Boyacá,Miraflores,15455,Rural
+Boyacá,Mongua,15464,Rural
+Boyacá,Otanche,15507,Rural
+Boyacá,Panqueba,15522,Rural
+Boyacá,Paz de Río,15537,Rural
+Boyacá,Ráquira,15600,Rural
+Boyacá,San Eduardo,15660,Rural
+Boyacá,San José de Pare,15664,Rural
+Boyacá,Jambaló,19364,Rural
+Boyacá,La Sierra,19392,Rural
+Boyacá,La Vega,19397,Rural
+Boyacá,Morales,19473,Rural
+Boyacá,Patía,19532,Rural
+Boyacá,Silvia,19743,Rural
+Boyacá,Suárez,19780,Rural
+Boyacá,Sucre,19785,Rural
+Boyacá,Toribio,19821,Rural
+Boyacá,Totoró,19824,Rural
+Cesar,Astrea,20032,Rural
+Cesar,Becerril,20045,Rural
+Cesar,Chimichagua,20175,Rural
+Cesar,Chiriguaná,20178,Rural
+Cesar,Curumaní,20228,Rural
+Cesar,El Copey,20238,Rural
+Cesar,Gamarra,20295,Rural
+Cesar,González,20310,Rural
+Cesar,La Gloria,20383,Rural
+Cesar,La Jagua de Ibirico,20400,Rural
+Cesar,La Paz,20621,Rural
+Cesar,Pailitas,20517,Rural
+Cesar,Pelaya,20550,Rural
+Cesar,Río de Oro,20614,Rural
+Cesar,San Alberto,20710,Rural
+Cesar,San Diego,20750,Rural
+Cesar,San Martín,20770,Rural
+Cesar,Tamalameque,20787,Rural
+Chocó,Acandí,27006,Rural
+Chocó,Atrato,27050,Rural
+Chocó,Cértegui,27160,Rural
+Chocó,Condoto,27205,Rural
+Chocó,El Cantón del San Pablo,27135,Rural
+Chocó,El Carmen de Atrato,27245,Rural
+Chocó,Istmina,27361,Rural
+Chocó,Lloró,27413,Rural
+Chocó,Medio San Juan,27450,Rural
+Chocó,Tadó,27787,Rural
+Chocó,Unguía,27800,Rural
+Córdoba,Buenavista,23079,Rural
+Córdoba,Canalete,23090,Rural
+Córdoba,Los Córdobas,23419,Rural
+Córdoba,Pueblo Nuevo,23570,Rural
+Córdoba,Puerto Escondido,23574,Rural
+Córdoba,San Luis de Gaceno,15667,Rural
+Córdoba,San Mateo,15673,Rural
+Córdoba,San Miguel de Sema,15676,Rural
+Córdoba,San Pablo de Borbur,15681,Rural
+Córdoba,Siachoque,15740,Rural
+Córdoba,Socha,15757,Rural
+Córdoba,Somondoco,15761,Rural
+Córdoba,Sora,15762,Rural
+Córdoba,Soracá,15764,Rural
+Córdoba,Susacón,15774,Rural
+Córdoba,Sutamarchán,15776,Rural
+Córdoba,Tenza,15798,Rural
+Córdoba,Tibaná,15804,Rural
+Córdoba,Tuta,15837,Rural
+Córdoba,Umbita,15842,Rural
+Córdoba,Viracachá,15879,Rural
+Caldas,Aguadas,17013,Rural
+Caldas,Norcasia,17495,Rural
+Caldas,Pácora,17513,Rural
+Caldas,Pensilvania,17541,Rural
+Caldas,Salamina,17653,Rural
+Caldas,Victoria,17867,Rural
+Caquetá,Albania,18029,Rural
+Caquetá,Belén de Los Andaquíes,18094,Rural
+Caquetá,Curillo,18205,Rural
+Caquetá,El Doncello,18247,Rural
+Caquetá,El Paujil,18256,Rural
+Caquetá,Puerto Rico,18592,Rural
+Caquetá,San José del Fragua,18610,Rural
+Caquetá,San Vicente del Caguán,18753,Rural
+Caquetá,Solita,18785,Rural
+Caquetá,Valparaíso,18860,Rural
+Casanare,Monterrey,85162,Rural
+Casanare,Pore,85263,Rural
+Casanare,Recetor,85279,Rural
+Casanare,Villanueva,85440,Rural
+Cauca,Almaguer,19022,Rural
+Cauca,Balboa,19075,Rural
+Cauca,Bolívar,19100,Rural
+Cauca,Buenos Aires,19110,Rural
+Cauca,Cajibío,19130,Rural
+Cauca,Caldono,19137,Rural
+Cauca,Caloto,19142,Rural
+Cauca,Guapi,19318,Rural
+Cauca,La Argentina,41378,Rural
+Cauca,Nátaga,41483,Rural
+Cauca,Oporapa,41503,Rural
+Cauca,Paicol,41518,Rural
+Cauca,Palermo,41524,Rural
+Cauca,Palestina,41530,Rural
+Cauca,Rivera,41615,Rural
+Cauca,San Agustín,41668,Rural
+Cauca,Tarqui,41791,Rural
+Cauca,Tello,41799,Rural
+Cauca,Teruel,41801,Rural
+Cauca,Tesalia,41797,Rural
+Cauca,Villavieja,41872,Rural
+Cauca,Yaguará,41885,Rural
+La Guajira,Albania,44035,Rural
+La Guajira,Barrancas,44078,Rural
+La Guajira,El Molino,44110,Rural
+La Guajira,La Jagua del Pilar,44420,Rural
+La Guajira,San Juan del Cesar,44650,Rural
+Magdalena,Algarrobo,47030,Rural
+Magdalena,Ariguaní,47058,Rural
+Magdalena,Cerro San Antonio,47161,Rural
+Magdalena,Chivolo,47170,Rural
+Magdalena,El Piñon,47258,Rural
+Magdalena,Nueva Granada,47460,Rural
+Magdalena,Pedraza,47541,Rural
+Magdalena,Pijiño del Carmen,47545,Rural
+Magdalena,Pivijay,47551,Rural
+Magdalena,Puebloviejo,47570,Rural
+Magdalena,Remolino,47605,Rural
+Magdalena,Salamina,47675,Rural
+Magdalena,San Sebastián de Buenavista,47692,Rural
+Magdalena,Santa Ana,47707,Rural
+Magdalena,Santa Bárbara de Pinto,47720,Rural
+Magdalena,Sitionuevo,47745,Rural
+Magdalena,Tenerife,47798,Rural
+Magdalena,Zapayán,47960,Rural
+Meta,Castilla la Nueva,50150,Rural
+Meta,Cumaral,50226,Rural
+Meta,El Castillo,50251,Rural
+Meta,El Dorado,50270,Rural
+Meta,Fuente de Oro,50287,Rural
+Meta,Guamal,50318,Rural
+Meta,Lejanías,50400,Rural
+Meta,Puerto Libertador,23580,Rural
+Meta,San Carlos,23678,Rural
+Meta,San José de Uré,23682,Rural
+Meta,San Pelayo,23686,Rural
+Meta,Valencia,23855,Rural
+Cundinamarca,Chipaque,25178,Rural
+Cundinamarca,Cucunubá,25224,Rural
+Cundinamarca,Fómeque,25279,Rural
+Cundinamarca,Fosca,25281,Rural
+Cundinamarca,Fúquene,25288,Rural
+Cundinamarca,Gachala,25293,Rural
+Cundinamarca,Gachetá,25297,Rural
+Cundinamarca,Guaduas,25320,Rural
+Cundinamarca,Guasca,25322,Rural
+Cundinamarca,Guataquí,25324,Rural
+Cundinamarca,Guayabal de Síquima,25328,Rural
+Cundinamarca,Guayabetal,25335,Rural
+Cundinamarca,La Peña,25398,Rural
+Cundinamarca,Lenguazaque,25407,Rural
+Cundinamarca,Nariño,25483,Rural
+Cundinamarca,Nilo,25488,Rural
+Cundinamarca,Pandi,25524,Rural
+Cundinamarca,Puerto Salgar,25572,Rural
+Cundinamarca,Quebradanegra,25592,Rural
+Cundinamarca,Quetame,25594,Rural
+Cundinamarca,Quipile,25596,Rural
+Cundinamarca,San Bernardo,25649,Rural
+Cundinamarca,San Juan de Río Seco,25662,Rural
+Cundinamarca,Sasaima,25718,Rural
+Cundinamarca,Sesquilé,25736,Rural
+Cundinamarca,Tibacuy,25805,Rural
+Cundinamarca,Tibirita,25807,Rural
+Cundinamarca,Ubaque,25841,Rural
+Cundinamarca,Une,25845,Rural
+Cundinamarca,Vergara,25862,Rural
+Guaviare,San José del Guaviare,95001,Rural
+Huila,Agrado,41013,Rural
+Huila,Aipe,41016,Rural
+Huila,Algeciras,41020,Rural
+Huila,Altamira,41026,Rural
+Huila,Baraya,41078,Rural
+Huila,Elías,41244,Rural
+Huila,Guadalupe,41319,Rural
+Huila,Hobo,41349,Rural
+Huila,San Francisco,86755,Rural
+Huila,San Miguel,86757,Rural
+Huila,Santiago,86760,Rural
+Huila,Villagarzón,86885,Rural
+Quindío,Génova,63302,Rural
+Quindío,Pijao,63548,Rural
+Quindío,Salento,63690,Rural
+Santander,California,68132,Rural
+Santander,Cerrito,68162,Rural
+Santander,Charalá,68167,Rural
+Santander,Chipatá,68179,Rural
+Santander,Cimitarra,68190,Rural
+Santander,Concepción,68207,Rural
+Santander,Contratación,68211,Rural
+Santander,Curití,68229,Rural
+Santander,El Playón,68255,Rural
+Santander,Guaca,68318,Rural
+Santander,Guadalupe,68320,Rural
+Santander,Guavatá,68324,Rural
+Santander,Hato,68344,Rural
+Santander,Mogotes,68464,Rural
+Santander,Ocamonte,68498,Rural
+Santander,Oiba,68500,Rural
+Santander,Palmas del Socorro,68524,Rural
+Santander,Pinchote,68549,Rural
+Santander,Puente Nacional,68572,Rural
+Santander,Puerto Wilches,68575,Rural
+Santander,Sabana de Torres,68655,Rural
+Santander,San Andrés,68669,Rural
+Santander,San Benito,68673,Rural
+Santander,San José de Miranda,68684,Rural
+Santander,San Vicente de Chucurí,68689,Rural
+Santander,Vélez,68861,Rural
+Santander,Vetas,68867,Rural
+Santander,Zapatoca,68895,Rural
+Sucre,Coloso,70204,Rural
+Sucre,Guaranda,70265,Rural
+Sucre,La Unión,70400,Rural
+Sucre,Majagual,70429,Rural
+Sucre,Ovejas,70508,Rural
+Sucre,San Onofre,70713,Rural
+Sucre,Sucre,70771,Rural
+Sucre,Tolú Viejo,70823,Rural
+Tolima,Alvarado,73026,Rural
+Tolima,Puerto Concordia,50450,Rural
+Tolima,Restrepo,50606,Rural
+Tolima,San Carlos de Guaroa,50680,Rural
+Tolima,San Juanito,50686,Rural
+Nariño,Aldana,52022,Rural
+Nariño,Ancuyá,52036,Rural
+Nariño,Barbacoas,52079,Rural
+Nariño,Consaca,52207,Rural
+Nariño,El Peñol,52254,Rural
+Nariño,El Rosario,52256,Rural
+Nariño,El Tablón de Gómez,52258,Rural
+Nariño,El Tambo,52260,Rural
+Nariño,Francisco Pizarro,52520,Rural
+Nariño,Funes,52287,Rural
+Nariño,Guachucal,52317,Rural
+Nariño,Imués,52354,Rural
+Nariño,La Florida,52381,Rural
+Nariño,La Llanada,52385,Rural
+Nariño,La Tola,52390,Rural
+Nariño,Leiva,52405,Rural
+Nariño,Linares,52411,Rural
+Nariño,Los Andes,52418,Rural
+Nariño,Mosquera,52473,Rural
+Nariño,Olaya Herrera,52490,Rural
+Nariño,Puerres,52573,Rural
+Nariño,San Lorenzo,52687,Rural
+Nariño,Taminango,52786,Rural
+Nariño,Yacuanquer,52885,Rural
+Norte de Santander,Abrego,54003,Rural
+Norte de Santander,Bochalema,54099,Rural
+Norte de Santander,Convención,54206,Rural
+Norte de Santander,Durania,54239,Rural
+Norte de Santander,El Tarra,54250,Rural
+Norte de Santander,El Zulia,54261,Rural
+Norte de Santander,Gramalote,54313,Rural
+Norte de Santander,Lourdes,54418,Rural
+Norte de Santander,Salazar,54660,Rural
+Norte de Santander,San Cayetano,54673,Rural
+Norte de Santander,Santiago,54680,Rural
+Norte de Santander,Sardinata,54720,Rural
+Norte de Santander,Tibú,54810,Rural
+Norte de Santander,Villa Caro,54871,Rural
+Putumayo,Orito,86320,Rural
+Putumayo,Puerto Caicedo,86569,Rural
+Putumayo,Valle de San Juan,73854,Rural
+Putumayo,Villahermosa,73870,Rural
+Putumayo,Villarrica,73873,Rural
+Valle del Cauca,Bugalagrande,76113,Rural
+Valle del Cauca,Calima,76126,Rural
+Valle del Cauca,El Dovio,76250,Rural
+Valle del Cauca,La Cumbre,76377,Rural
+Valle del Cauca,La Victoria,76403,Rural
+Valle del Cauca,Riofrío,76616,Rural
+Valle del Cauca,Versalles,76863,Rural
+Valle del Cauca,Yotoco,76890,Rural
+Valle del Cauca,Ambalema,73030,Rural
+Valle del Cauca,Armero,73055,Rural
+Valle del Cauca,Cajamarca,73124,Rural
+Valle del Cauca,Carmen de Apicalá,73148,Rural
+Valle del Cauca,Casabianca,73152,Rural
+Valle del Cauca,Dolores,73236,Rural
+Valle del Cauca,Natagaima,73483,Rural
+Valle del Cauca,Piedras,73547,Rural
+Valle del Cauca,Prado,73563,Rural
+Valle del Cauca,Rovira,73624,Rural
+Valle del Cauca,Santa Isabel,73686,Rural
+Valle del Cauca,Suárez,73770,Rural
+Amazonas,Puerto Nariño,91540,Rural Disperso
+Amazonas,El Encanto (ANM),91263,Rural Disperso
+Amazonas,La Chorrera (ANM),91405,Rural Disperso
+Amazonas,La Pedrera (ANM),91407,Rural Disperso
+Amazonas,La Victoria (ANM),91430,Rural Disperso
+Amazonas,"Miriti, Paraná (ANM)",91460,Rural Disperso
+Amazonas,Puerto Alegría (ANM),91530,Rural Disperso
+Amazonas,Puerto Arica (ANM),91536,Rural Disperso
+Amazonas,Puerto Santander (ANM),91669,Rural Disperso
+Amazonas,Tarapacá (ANM),91798,Rural Disperso
+Antioquia,Abriaquí,5004,Rural Disperso
+Antioquia,Angostura,5038,Rural Disperso
+Antioquia,Anza,5044,Rural Disperso
+Antioquia,Argelia,5055,Rural Disperso
+Antioquia,Belmira,5086,Rural Disperso
+Antioquia,Briceño,5107,Rural Disperso
+Antioquia,Buriticá,5113,Rural Disperso
+Antioquia,Cáceres,5120,Rural Disperso
+Antioquia,Caicedo,5125,Rural Disperso
+Antioquia,Ituango,5361,Rural Disperso
+Antioquia,Liborina,5411,Rural Disperso
+Antioquia,Murindó,5475,Rural Disperso
+Antioquia,Mutatá,5480,Rural Disperso
+Antioquia,Necoclí,5490,Rural Disperso
+Antioquia,Olaya,5501,Rural Disperso
+Antioquia,Peque,5543,Rural Disperso
+Antioquia,Santo Domingo,5690,Rural Disperso
+Antioquia,Toledo,5819,Rural Disperso
+Antioquia,Valdivia,5854,Rural Disperso
+Antioquia,Vigía del Fuerte,5873,Rural Disperso
+Antioquia,Yondó,5893,Rural Disperso
+Arauca,Cravo Norte,81220,Rural Disperso
+Arauca,Puerto Rondón,81591,Rural Disperso
+Arauca,Tame,81794,Rural Disperso
+Bolívar,Achí,13006,Rural Disperso
+Bolívar,Arenal,13042,Rural Disperso
+Bolívar,Córdoba,13212,Rural Disperso
+Bolívar,Margarita,13440,Rural Disperso
+Bolívar,Montecristo,13458,Rural Disperso
+Bolívar,Morales,13473,Rural Disperso
+Bolívar,Pinillos,13549,Rural Disperso
+Bolívar,San Fernando,13650,Rural Disperso
+Bolívar,San Jacinto del Cauca,13655,Rural Disperso
+Bolívar,Tiquisio,13810,Rural Disperso
+Boyacá,Almeida,15022,Rural Disperso
+Boyacá,Berbeo,15090,Rural Disperso
+Boyacá,Betéitiva,15092,Rural Disperso
+Boyacá,Caldas,15131,Rural Disperso
+Boyacá,Campohermoso,15135,Rural Disperso
+Boyacá,Chíquiza,15232,Rural Disperso
+Boyacá,Chiscas,15180,Rural Disperso
+Boyacá,Chita,15183,Rural Disperso
+Boyacá,Chitaraque,15185,Rural Disperso
+Boyacá,Chivor,15236,Rural Disperso
+Boyacá,Coper,15212,Rural Disperso
+Boyacá,Covarachía,15218,Rural Disperso
+Boyacá,Cubará,15223,Rural Disperso
+Boyacá,Cuítiva,15226,Rural Disperso
+Boyacá,Gachantivá,15293,Rural Disperso
+Boyacá,Guacamayas,15317,Rural Disperso
+Boyacá,Güicán,15332,Rural Disperso
+Boyacá,Jericó,15368,Rural Disperso
+Boyacá,Labranzagrande,15377,Rural Disperso
+Boyacá,Macanal,15425,Rural Disperso
+Boyacá,Oicatá,15500,Rural Disperso
+Boyacá,Pachavita,15511,Rural Disperso
+Boyacá,Páez,15514,Rural Disperso
+Boyacá,Pajarito,15518,Rural Disperso
+Boyacá,Pauna,15531,Rural Disperso
+Boyacá,Paya,15533,Rural Disperso
+Boyacá,Pesca,15542,Rural Disperso
+Boyacá,Pisba,15550,Rural Disperso
+Boyacá,Quípama,15580,Rural Disperso
+Boyacá,Rondón,15621,Rural Disperso
+Boyacá,Saboyá,15632,Rural Disperso
+Boyacá,Santa María,15690,Rural Disperso
+Boyacá,Santa Sofía,15696,Rural Disperso
+Boyacá,Sativanorte,15720,Rural Disperso
+Boyacá,Sativasur,15723,Rural Disperso
+Boyacá,Socotá,15755,Rural Disperso
+Boyacá,Sotaquirá,15763,Rural Disperso
+Boyacá,Tasco,15790,Rural Disperso
+Boyacá,Tinjacá,15808,Rural Disperso
+Boyacá,Tipacoque,15810,Rural Disperso
+Boyacá,Togüí,15816,Rural Disperso
+Boyacá,Tota,15822,Rural Disperso
+Boyacá,Tununguá,15832,Rural Disperso
+Boyacá,Tutazá,15839,Rural Disperso
+Boyacá,Zetaquira,15897,Rural Disperso
+Caldas,Marulanda,17446,Rural Disperso
+Caldas,Samaná,17662,Rural Disperso
+Caquetá,Cartagena del Chairá,18150,Rural Disperso
+Caquetá,La Montañita,18410,Rural Disperso
+Caquetá,Milán,18460,Rural Disperso
+Caquetá,Morelia,18479,Rural Disperso
+Caquetá,Solano,18756,Rural Disperso
+Casanare,Chameza,85015,Rural Disperso
+Casanare,Hato Corozal,85125,Rural Disperso
+Casanare,La Salina,85136,Rural Disperso
+Casanare,Maní,85139,Rural Disperso
+Casanare,Nunchía,85225,Rural Disperso
+Casanare,Orocué,85230,Rural Disperso
+Casanare,Paz de Ariporo,85250,Rural Disperso
+Casanare,Sabanalarga,85300,Rural Disperso
+Casanare,Sácama,85315,Rural Disperso
+Casanare,San Luis de Palenque,85325,Rural Disperso
+Casanare,Támara,85400,Rural Disperso
+Casanare,Tauramena,85410,Rural Disperso
+Casanare,Trinidad,85430,Rural Disperso
+Cauca,Argelia,19050,Rural Disperso
+Cauca,El Tambo,19256,Rural Disperso
+Cauca,Inzá,19355,Rural Disperso
+Cauca,López,19418,Rural Disperso
+Cauca,Mercaderes,19450,Rural Disperso
+Cauca,Páez,19517,Rural Disperso
+Cauca,Piamonte,19533,Rural Disperso
+Cauca,Puracé,19585,Rural Disperso
+Cauca,San Sebastián,19693,Rural Disperso
+Cauca,Santa Rosa,19701,Rural Disperso
+Cauca,Sotará,19760,Rural Disperso
+Cauca,Timbiquí,19809,Rural Disperso
+Cesar,El Paso,20250,Rural Disperso
+Cesar,Pueblo Bello,20570,Rural Disperso
+Chocó,Alto Baudó,27025,Rural Disperso
+Chocó,Bagadó,27073,Rural Disperso
+Chocó,Bahía Solano,27075,Rural Disperso
+Chocó,Bajo Baudó,27077,Rural Disperso
+Chocó,Bojayá,27099,Rural Disperso
+Chocó,Carmen del Darién,27150,Rural Disperso
+Chocó,El Litoral del San Juan,27250,Rural Disperso
+Chocó,Juradó,27372,Rural Disperso
+Chocó,Medio Atrato,27425,Rural Disperso
+Chocó,Medio Baudó,27430,Rural Disperso
+Chocó,Nóvita,27491,Rural Disperso
+Chocó,Nuquí,27495,Rural Disperso
+Chocó,Río Iro,27580,Rural Disperso
+Chocó,Río Quito,27600,Rural Disperso
+Chocó,Riosucio,27615,Rural Disperso
+Chocó,San José del Palmar,27660,Rural Disperso
+Chocó,Sipí,27745,Rural Disperso
+Córdoba,Chimá,23168,Rural Disperso
+Cundinamarca,Beltrán,25086,Rural Disperso
+Cundinamarca,Bituima,25095,Rural Disperso
+Cundinamarca,Cabrera,25120,Rural Disperso
+Cundinamarca,Caparrapí,25148,Rural Disperso
+Cundinamarca,Carmen de Carupa,25154,Rural Disperso
+Cundinamarca,Chaguaní,25168,Rural Disperso
+Cundinamarca,El Peñón,25258,Rural Disperso
+Cundinamarca,Gama,25299,Rural Disperso
+Cundinamarca,Guatavita,25326,Rural Disperso
+Cundinamarca,Gutiérrez,25339,Rural Disperso
+Cundinamarca,Jerusalén,25368,Rural Disperso
+Cundinamarca,Junín,25372,Rural Disperso
+Cundinamarca,Macheta,25426,Rural Disperso
+Cundinamarca,Manta,25436,Rural Disperso
+Cundinamarca,Medina,25438,Rural Disperso
+Cundinamarca,Paime,25518,Rural Disperso
+Cundinamarca,Paratebueno,25530,Rural Disperso
+Cundinamarca,Pasca,25535,Rural Disperso
+Cundinamarca,Pulí,25580,Rural Disperso
+Cundinamarca,San Cayetano,25653,Rural Disperso
+Cundinamarca,Supatá,25777,Rural Disperso
+Cundinamarca,Tausa,25793,Rural Disperso
+Cundinamarca,Topaipí,25823,Rural Disperso
+Cundinamarca,Ubalá,25839,Rural Disperso
+Cundinamarca,Venecia,25506,Rural Disperso
+Cundinamarca,Villagómez,25871,Rural Disperso
+Cundinamarca,Yacopí,25885,Rural Disperso
+Guainía,Inírida,94001,Rural Disperso
+Guainía,Barranco Minas (ANM),94343,Rural Disperso
+Guainía,Cacahual (ANM),94886,Rural Disperso
+Guainía,La Guadalupe (ANM),94885,Rural Disperso
+Guainía,Mapiripana (ANM),94663,Rural Disperso
+Guainía,Morichal (ANM),94888,Rural Disperso
+Guainía,Pana Pana (ANM),94887,Rural Disperso
+Guainía,Puerto Colombia (ANM),94884,Rural Disperso
+Guainía,San Felipe (ANM),94883,Rural Disperso
+Guaviare,Calamar,95015,Rural Disperso
+Guaviare,El Retorno,95025,Rural Disperso
+Guaviare,Miraflores,95200,Rural Disperso
+Huila,Acevedo,41006,Rural Disperso
+Huila,Colombia,41206,Rural Disperso
+Huila,Iquira,41357,Rural Disperso
+Huila,Isnos,41359,Rural Disperso
+Huila,Saladoblanco,41660,Rural Disperso
+Huila,Santa María,41676,Rural Disperso
+Huila,Suaza,41770,Rural Disperso
+La Guajira,Dibulla,44090,Rural Disperso
+La Guajira,Uribia,44847,Rural Disperso
+Magdalena,Guamal,47318,Rural Disperso
+Magdalena,Sabanas de San Ángel,47660,Rural Disperso
+Magdalena,San Zenón,47703,Rural Disperso
+Meta,Barranca de Upía,50110,Rural Disperso
+Meta,Cabuyaro,50124,Rural Disperso
+Meta,Cubarral,50223,Rural Disperso
+Meta,El Calvario,50245,Rural Disperso
+Meta,La Macarena,50350,Rural Disperso
+Meta,Mapiripán,50325,Rural Disperso
+Meta,Mesetas,50330,Rural Disperso
+Meta,Puerto Gaitán,50568,Rural Disperso
+Meta,Puerto Lleras,50577,Rural Disperso
+Meta,Puerto López,50573,Rural Disperso
+Meta,Puerto Rico,50590,Rural Disperso
+Meta,San Juan de Arama,50683,Rural Disperso
+Meta,San Martín,50689,Rural Disperso
+Meta,Uribe,50370,Rural Disperso
+Meta,Vistahermosa,50711,Rural Disperso
+Nariño,Buesaco,52110,Rural Disperso
+Nariño,Córdoba,52215,Rural Disperso
+Nariño,Cumbal,52227,Rural Disperso
+Nariño,Cumbitara,52233,Rural Disperso
+Nariño,El Charco,52250,Rural Disperso
+Nariño,Magüi,52427,Rural Disperso
+Nariño,Mallama,52435,Rural Disperso
+Nariño,Policarpa,52540,Rural Disperso
+Nariño,Potosí,52560,Rural Disperso
+Nariño,Ricaurte,52612,Rural Disperso
+Nariño,Roberto Payán,52621,Rural Disperso
+Nariño,Santa Bárbara,52696,Rural Disperso
+Nariño,Santacruz,52699,Rural Disperso
+Nariño,Sapuyes,52720,Rural Disperso
+Nariño,Tangua,52788,Rural Disperso
+Norte de Santander,Arboledas,54051,Rural Disperso
+Norte de Santander,Bucarasica,54109,Rural Disperso
+Norte de Santander,Cachirá,54128,Rural Disperso
+Norte de Santander,Cácota,54125,Rural Disperso
+Norte de Santander,Chitagá,54174,Rural Disperso
+Norte de Santander,Cucutilla,54223,Rural Disperso
+Norte de Santander,El Carmen,54245,Rural Disperso
+Norte de Santander,Hacarí,54344,Rural Disperso
+Norte de Santander,Herrán,54347,Rural Disperso
+Norte de Santander,La Esperanza,54385,Rural Disperso
+Norte de Santander,La Playa,54398,Rural Disperso
+Norte de Santander,Labateca,54377,Rural Disperso
+Norte de Santander,Mutiscua,54480,Rural Disperso
+Norte de Santander,Pamplonita,54520,Rural Disperso
+Norte de Santander,San Calixto,54670,Rural Disperso
+Norte de Santander,Silos,54743,Rural Disperso
+Norte de Santander,Teorama,54800,Rural Disperso
+Norte de Santander,Toledo,54820,Rural Disperso
+Putumayo,Leguízamo,86573,Rural Disperso
+Putumayo,Puerto Guzmán,86571,Rural Disperso
+Risaralda,Balboa,66075,Rural Disperso
+Risaralda,Mistrató,66456,Rural Disperso
+Risaralda,Pueblo Rico,66572,Rural Disperso
+Santander,Aguada,68013,Rural Disperso
+Santander,Albania,68020,Rural Disperso
+Santander,Aratoca,68051,Rural Disperso
+Santander,Betulia,68092,Rural Disperso
+Santander,Bolívar,68101,Rural Disperso
+Santander,Cabrera,68121,Rural Disperso
+Santander,Carcasí,68152,Rural Disperso
+Santander,Cepitá,68160,Rural Disperso
+Santander,Charta,68169,Rural Disperso
+Santander,Chima,68176,Rural Disperso
+Santander,Confines,68209,Rural Disperso
+Santander,Coromoro,68217,Rural Disperso
+Santander,El Carmen de Chucurí,68235,Rural Disperso
+Santander,El Guacamayo,68245,Rural Disperso
+Santander,El Peñón,68250,Rural Disperso
+Santander,Encino,68264,Rural Disperso
+Santander,Enciso,68266,Rural Disperso
+Santander,Anzoátegui,73043,Rural Disperso
+Santander,Ataco,73067,Rural Disperso
+Santander,Coello,73200,Rural Disperso
+Santander,Coyaima,73217,Rural Disperso
+Santander,Cunday,73226,Rural Disperso
+Santander,Falan,73270,Rural Disperso
+Santander,Herveo,73347,Rural Disperso
+Santander,Murillo,73461,Rural Disperso
+Santander,Ortega,73504,Rural Disperso
+Santander,Planadas,73555,Rural Disperso
+Santander,Rioblanco,73616,Rural Disperso
+Santander,Roncesvalles,73622,Rural Disperso
+Santander,San Antonio,73675,Rural Disperso
+Santander,San Luis,73678,Rural Disperso
+Valle del Cauca,Bolívar,76100,Rural Disperso
+Valle del Cauca,Dagua,76233,Rural Disperso
+Valle del Cauca,El Águila,76243,Rural Disperso
+Valle del Cauca,El Cairo,76246,Rural Disperso
+Vaupés,Caruru,97161,Rural Disperso
+Vaupés,Mitú,97001,Rural Disperso
+Vaupés,Taraira,97666,Rural Disperso
+Vaupés,Pacoa (ANM),97511,Rural Disperso
+Vaupés,Papunaua (ANM),97777,Rural Disperso
+Vaupés,Yavaraté (ANM),97889,Rural Disperso
+Vichada,Cumaribo,99773,Rural Disperso
+Vichada,La Primavera,99524,Rural Disperso
+Vichada,Puerto Carreño,99001,Rural Disperso
+Vichada,Santa Rosalía,99624,Rural Disperso
+Vichada,Florián,68271,Rural Disperso
+Vichada,Galán,68296,Rural Disperso
+Vichada,Gambita,68298,Rural Disperso
+Vichada,Guapotá,68322,Rural Disperso
+Vichada,Jesús María,68368,Rural Disperso
+Vichada,Jordán,68370,Rural Disperso
+Vichada,La Belleza,68377,Rural Disperso
+Vichada,La Paz,68397,Rural Disperso
+Vichada,Landázuri,68385,Rural Disperso
+Vichada,Los Santos,68418,Rural Disperso
+Vichada,Macaravita,68425,Rural Disperso
+Vichada,Matanza,68444,Rural Disperso
+Vichada,Molagavita,68468,Rural Disperso
+Vichada,Onzaga,68502,Rural Disperso
+Vichada,Puerto Parra,68573,Rural Disperso
+Vichada,Rionegro,68615,Rural Disperso
+Vichada,San Joaquín,68682,Rural Disperso
+Santander,San Miguel,68686,Rural Disperso
+Santander,Santa Bárbara,68705,Rural Disperso
+Santander,Santa Helena del Opón,68720,Rural Disperso
+Santander,Simacota,68745,Rural Disperso
+Santander,Suaita,68770,Rural Disperso
+Santander,Sucre,68773,Rural Disperso
+Santander,Suratá,68780,Rural Disperso
+Santander,Tona,68820,Rural Disperso
+Sucre,Caimito,70124,Rural Disperso
+Sucre,San Benito Abad,70678,Rural Disperso
+Tolima,Alpujarra,73024,Rural Disperso
