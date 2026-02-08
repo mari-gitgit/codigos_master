@@ -1,6 +1,3 @@
-#Instalamos librería
-pip install unidecode
-
 import re
 import numpy as np
 import pandas as pd
