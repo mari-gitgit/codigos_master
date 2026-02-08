@@ -3,8 +3,8 @@
 Dep. Variable:         tasa_desercion   R-squared:                       0.185
 Model:                            OLS   Adj. R-squared:                  0.162
 Method:                 Least Squares   F-statistic:                 1.643e+22
-Date:                Sun, 01 Feb 2026   Prob (F-statistic):               0.00
-Time:                        04:50:13   Log-Likelihood:                 1256.5
+Date:                Sun, 08 Feb 2026   Prob (F-statistic):               0.00
+Time:                        03:27:12   Log-Likelihood:                 1256.5
 No. Observations:                1502   AIC:                            -2431.
 Df Residuals:                    1461   BIC:                            -2213.
 Df Model:                          40                                         
