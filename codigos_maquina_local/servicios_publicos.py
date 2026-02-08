@@ -1,6 +1,4 @@
 import pandas as pd
-import numpy as np
-import re
 
 #Configuramos inicialmente los nombres de archivos y hojas
 path=r"C:\Users\paper\Documents\Deserción universidades\Servicios públicos por departamento.xlsx"
