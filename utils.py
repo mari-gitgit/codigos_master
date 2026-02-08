@@ -1,5 +1,5 @@
 #Instalamos librería
-pip install unicode
+pip install unidecode
 
 import re
 import numpy as np
