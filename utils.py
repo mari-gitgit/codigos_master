@@ -4,7 +4,7 @@ import pandas as pd
 from unidecode import unidecode
 import matplotlib.pyplot as plt
 
-def freq_table(df, col):
+def freq_table_EDA(df, col):
     tab = pd.DataFrame({
         "frecuencia": df[col].value_counts(dropna=False),
         "proporcion": df[col].value_counts(normalize=True, dropna=False)
