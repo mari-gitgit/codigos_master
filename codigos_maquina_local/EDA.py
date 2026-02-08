@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
-from utils import fig_bar,fig_hist
+from utils import fig_bar,fig_hist,freq_table_EDA
 
 df = pd.read_csv(r"C:\Users\paper\Desktop\Master\df_master_municipal.csv")
 
@@ -66,6 +66,9 @@ if "tipo_ruralidad" in df.columns:
     fig_bar(df["tipo_ruralidad"],"Tipo de ruralidad","Número de municipios",
             "fig_5_ruralidad.png","pink")
 
+tab_ruralidad = freq_table_EDA(df, "tipo_ruralidad")
+tab_ruralidad.to_csv("frecuencias_ruralidad.csv",index=False)
+
 #Estrato socioeconómico predominante
 plt.figure()
 df["estrato_predominante"].value_counts().sort_index().plot(kind="bar",color="pink")
@@ -74,6 +77,9 @@ plt.ylabel("Número de municipios")
 plt.tight_layout()
 plt.savefig("fig_1_estrato_predominante.png")
 plt.close()
+
+tab_estrato=freq_table_EDA(df,"estrato_predominante")
+tab_estrato.to_csv("frecuencias_estrato.csv", index=False)
 
 #Escolaridad total por municipio
 if "escolaridad_total" in df.columns:
@@ -99,6 +105,9 @@ plt.xticks(rotation=45,ha="right")
 plt.tight_layout()
 plt.savefig("fig_top_departamentos.png",dpi=200)
 plt.close()
+
+tab_deptos = freq_table_EDA(df,"departamento")
+tab_deptos.to_csv("frecuencias_departamento.csv", index=False)
 
 #Relaciones bivariadas
 #Escolaridad total vs Estrato (aclarar que es volumen, no logros académicos)
@@ -141,3 +150,4 @@ num_cols=df.select_dtypes(include=["number"]).columns.tolist()
 if len(num_cols)>1:
     corr=df[num_cols].corr(numeric_only=True)
     corr.to_csv("corr_numerica.csv")
+
