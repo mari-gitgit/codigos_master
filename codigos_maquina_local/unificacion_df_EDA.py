@@ -11,9 +11,16 @@ territorial=pd.read_csv(r"C:\Users\paper\Desktop\Master\tipos_ruralidad.csv").re
     "Municipio":"municipio",
     "Tipo_ruralidad":"tipo_ruralidad"
 })
-territorial["codigo_dane"]  =territorial["codigo_dane"].astype(str).str.strip()
-territorial["depto_key"]    =norm_text(territorial["departamento"])
-territorial["mun_key"]      =norm_text(territorial["municipio"])
+
+territorial["codigo_dane"] = (
+    territorial["codigo_dane"]
+    .astype(str).str.strip()
+    .str.replace(r"\.0$", "", regex=True)
+    .str.zfill(5)
+)
+
+territorial["depto_key"] = territorial["departamento"].apply(norm_text)
+territorial["mun_key"]   = territorial["municipio"].apply(norm_text)
 
 #Fila por municipio (código DANE)
 territorial_1=territorial.drop_duplicates(subset=["codigo_dane"]).copy()
@@ -31,8 +38,8 @@ escolaridad=pd.read_csv(r"C:\Users\paper\Desktop\Master\escolaridad_municipios_t
     "Municipio": "municipio",
     "valor": "valor_escolaridad"
 })
-escolaridad["depto_key"] =norm_text(escolaridad["departamento"])
-escolaridad["mun_key"]   =norm_text(escolaridad["municipio"])
+escolaridad["depto_key"] = escolaridad["departamento"].apply(norm_text)
+escolaridad["mun_key"]   = escolaridad["municipio"].apply(norm_text)
 
 #Asignar codigo_dane usando el mapa territorial
 escolaridad=escolaridad.merge(
@@ -54,8 +61,8 @@ esc_tipo=(
                             values="valor_escolaridad",aggfunc="sum",fill_value=0)
     .reset_index()
 )
-esc_tipo.columns=["codigo_dane"] + [
-    f"esc_{norm_text(pd.Series([c])).iloc[0].lower().replace(' ','_')}"
+esc_tipo.columns = ["codigo_dane"] + [
+    f"esc_{norm_text(c).lower().replace(' ', '_')}"
     for c in esc_tipo.columns[1:]
 ]
 
@@ -67,8 +74,8 @@ estrato=pd.read_csv(r"C:\Users\paper\Desktop\Master\manzanas_estrato_por_municip
     "ESTRATO_PREDOMINANTE_INT": "estrato",
     "n_manzanas": "n_manzanas"
 })
-estrato["depto_key"] =norm_text(estrato["departamento"])
-estrato["mun_key"]   =norm_text(estrato["municipio"])
+estrato["depto_key"] = estrato["departamento"].apply(norm_text)
+estrato["mun_key"]   = estrato["municipio"].apply(norm_text)
 
 estrato=estrato.merge(
     territorial_map,
@@ -112,7 +119,14 @@ poblacion=pd.read_csv(r"C:\Users\paper\Desktop\Master\proyección_poblacion.csv"
     "DPNOM": "departamento",
     "Población": "poblacion"
 })
-poblacion["codigo_dane"]=poblacion["codigo_dane"].astype(str).str.strip()
+
+poblacion["codigo_dane"] = (
+    poblacion["codigo_dane"]
+    .astype(str).str.strip()
+    .str.replace(r"\.0$", "", regex=True)
+    .str.zfill(5)
+)
+
 poblacion["anio"]=pd.to_numeric(poblacion["anio"], errors="coerce")
 poblacion["poblacion"]=pd.to_numeric(poblacion["poblacion"], errors="coerce")
 
