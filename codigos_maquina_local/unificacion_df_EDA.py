@@ -1,16 +1,7 @@
 import pandas as pd
 import numpy as np
-import unicodedata
 from pathlib import Path
-
-def norm_text(s:pd.Series) -> pd.Series:
-    """Normaliza texto para cruces: strip, MAYÚSC, sin tildes, espacios consistentes."""
-    s=s.astype(str).str.strip()
-    s=s.apply(lambda x: "".join(
-        c for c in unicodedata.normalize("NFKD",x) if not unicodedata.combining(c)
-    ))
-    s= s.str.upper().str.replace(r"\s+", " ", regex=True)
-    return s
+from utils import norm_text
 
 #Tabla territorial base (llave: código DANE)
 
