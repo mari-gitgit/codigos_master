@@ -4,6 +4,15 @@ import pandas as pd
 from unidecode import unidecode
 import matplotlib.pyplot as plt
 
+def freq_table(df, col):
+    tab = pd.DataFrame({
+        "frecuencia": df[col].value_counts(dropna=False),
+        "proporcion": df[col].value_counts(normalize=True, dropna=False)
+    }).reset_index()
+
+    tab = tab.rename(columns={"index": col})
+    return tab
+
 def normalize_col_name(col):
     try:
         val=float(col)
