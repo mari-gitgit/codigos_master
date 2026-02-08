@@ -1,3 +1,6 @@
+#Instalamos librería
+pip install unicode
+
 import re
 import numpy as np
 import pandas as pd
