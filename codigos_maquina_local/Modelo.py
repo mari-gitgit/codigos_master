@@ -5,8 +5,8 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 import statsmodels.formula.api as smf
-import re
-from unidecode import unidecode
+from utils import norm_depto,coef_table
+
 
 MUNICIPAL_PATH="df_master_derived.csv"
 DESERCION_XLSX="articles-415244_recurso_7.xlsx"
@@ -16,21 +16,6 @@ TAB_DIR=os.path.join(OUT_DIR, "tables")
 
 os.makedirs(FIG_DIR, exist_ok=True)
 os.makedirs(TAB_DIR, exist_ok=True)
-
-def norm_depto(s: str) -> str:
-    if s is None:
-        return ""
-    s = str(s).strip().upper()
-    s = unidecode(s)                 # quita tildes
-    s = re.sub(r"\s+", " ", s)       # espacios dobles
-    s = s.replace(".", "").replace(",", "")
-    s = s.replace(" D C", " DC")     # arreglos comunes
-    s = s.replace("D C", "DC")
-    # normalizaciones comunes en Colombia
-    s = s.replace("BOGOTA DC", "BOGOTA")
-    s = s.replace("BOGOTA D C", "BOGOTA")
-    s = s.replace("ARCHIPIELAGO DE SAN ANDRES PROVIDENCIA Y SANTA CATALINA", "SAN ANDRES")
-    return s
 
 #Cargar base municipal y construir derivadas
 
@@ -164,19 +149,6 @@ with open(os.path.join(OUT_DIR, "modelo_1_summary.txt"),"w",encoding="utf-8") as
 
 with open(os.path.join(OUT_DIR, "modelo_2_summary.txt"),"w",encoding="utf-8") as f:
     f.write(m2.summary().as_text())
-
-#Tabla compacta de coeficientes principales
-def coef_table(model,name):
-    params=model.params
-    se=model.bse
-    pval=model.pvalues
-    out=pd.DataFrame({
-        "coef":params,
-        "se":se,
-        "pval":pval
-    })
-    out["modelo"]=name
-    return out.reset_index().rename(columns={"index":"termino"})
 
 coef_df=pd.concat([coef_table(m1,"M1_FE_anio"), coef_table(m2,"M2_FE_anio_depto")],ignore_index=True)
 coef_df.to_csv(os.path.join(TAB_DIR,"03_coeficientes_modelos.csv"),index=False)
