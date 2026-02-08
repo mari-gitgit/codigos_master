@@ -1,6 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
+from utils import fig_bar,fig_hist
 
 df = pd.read_csv(r"C:\Users\paper\Desktop\Master\df_master_municipal.csv")
 
@@ -59,24 +60,6 @@ if "escolaridad_total" in df.columns:
 df.to_csv("df_master_derived.csv",index=False)
 
 #Distribuciones univariadas
-def fig_bar(series,xlabel,ylabel,filename,color_fig,rotation=45):
-    plt.figure()
-    series.value_counts().plot(kind="bar",color=color_fig)
-    plt.xlabel(xlabel)
-    plt.ylabel(ylabel)
-    plt.xticks(rotation=rotation,ha="right")
-    plt.tight_layout()
-    plt.savefig(filename,dpi=200)
-    plt.close()
-
-def fig_hist(series,xlabel,ylabel,filename,color_fig,bins=45):
-    plt.figure()
-    series.dropna().plot(kind="hist",bins=bins,color=color_fig)
-    plt.xlabel(xlabel)
-    plt.ylabel(ylabel)
-    plt.tight_layout()
-    plt.savefig(filename,dpi=200)
-    plt.close()
 
 #Distribución de municipios por tipo de ruralidad
 if "tipo_ruralidad" in df.columns:
