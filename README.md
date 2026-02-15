@@ -10,7 +10,7 @@ Encontramos también los archivos que se generan una vez se ejecutan los scripts
 
 Con el fin de procesar los códigos en máquina local se deben descargar los archivos contenidos en la carpeta **archivos_fuente**.
 
-Luego, vamos primero con los siguientes archivos, todos se encuentran en la carpeta **codigos_maquina_local**:
+Luego, vamos primero con los siguientes archivos, todos se encuentran en la carpeta **codigos_maquina_local**:\n
 
 -escolaridad.py
 -pobreza_monetaria.py
